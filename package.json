@@ -1,5 +1,5 @@
 {
-  "name": "express-joi-swagger",
+  "name": "@aydin.olmez/express-joi-swagger",
   "version": "1.0.2",
   "description": "Simple non-intrusive library for validating Express routes with Joi and auto-generating Swagger documentation.",
   "main": "./src/index.js",
